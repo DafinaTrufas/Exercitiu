@@ -11,6 +11,7 @@ int f(int x, int y) {
 }
 
 int main() {
+    cout<<"Salut, Dafi!";
     f();
     int x, y;
     cin >> x >> y;
