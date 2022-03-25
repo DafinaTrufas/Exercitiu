@@ -1,7 +1,11 @@
 #include <iostream>
 using namespace std;
 
+void f()
+{
+	cout << "Modificare";
+}
 int main() {
-    cout<<"Salut";
+    f();
     return 0;
 }
